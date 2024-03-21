@@ -1,4 +1,5 @@
 College Management System:
+
 This system is designed to efficiently manage various aspects of a college environment. Built using the MERN stack, this system provides a comprehensive solution for colleges or educational institutions to streamline their administrative processes.
 
 *Features*:
@@ -14,7 +15,11 @@ Grades Management: Record and manage student grades for different assignments, q
 User Authentication: Secure authentication system to manage access control and user permissions.
 
 *Technologies Used*:
+
 MongoDB 
+
 Express.js
+
 React.js
+
 Node.js
