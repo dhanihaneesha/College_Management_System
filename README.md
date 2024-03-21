@@ -1,7 +1,7 @@
 College Management System:
 This system is designed to efficiently manage various aspects of a college environment. Built using the MERN stack, this system provides a comprehensive solution for colleges or educational institutions to streamline their administrative processes.
 
-*Features*:
+*Features*\n
 Student Management: Easily add, edit, and delete student profiles.
 Course Management: Create, update, and manage courses offered by the college.
 Attendance Tracking: Keep track of student attendance for each course.
